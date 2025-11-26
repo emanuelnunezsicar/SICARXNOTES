@@ -1,0 +1,15 @@
+NOTAS
+
+Investigas sobre Build Systems gradle
+
+Comman + Shift + . to hidden files
+
+Para tener libreria disponible local
+
+Hacer cambios en el codigo, escribir el codigo que se requiere. En este caso las Request correspondientes para el API Testing de los servicios.
+
+Una vez ya se tiene el codigo completo implementado de forma correcta:
+*  Ejecutar Task Clean (opcional)
+*  Task Build
+*  Ejecutar Task PublishToMavenLocal
+*  Al hacer PublishToMavenLocal se tendra la version disponible para usarse. 
