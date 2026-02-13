@@ -1,0 +1,23 @@
+{
+  "environment": "PRODUCTION",
+  "user": "user@sicar.mx",
+  "hash": "haspass",
+  "ownerName": "TestingEmanuel"
+}
+
+
+Promts examples:
+
+* Refactor the following Java code to make it cleaner, more readable, and aligned with best practices. Use modern Java features where possible.
+
+* Analyze the following Java code and suggest performance improvements, explaining the reasons.
+
+* Explain the time and space complexity of the following method in Big-O notation, and suggest improvements.
+
+* Convert this Java code to use modern features like Records, Streams, and switch expressions.
+
+* Suggest better exception handling for this code using best practices.
+
+* Write JUnit 5 tests for the method below, including edge cases.
+
+* Analyze for concurrency problems and suggest thread-safe solutions.
